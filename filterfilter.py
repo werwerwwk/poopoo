@@ -302,14 +302,14 @@ print("")
 print(""" (Update Kardan script) 👇:
 
 rm -rf filterfilter.py
-rm -rf filter.py
+rm -rf filterfilter.py
 
 
 git clone https://github.com/werwerwwk/poopoo.git.filterfilter.py
 
 
 
-chmod +x Filter.py
+chmod +x Filterfilter.py
 
 
 cd Filterfilter.py
