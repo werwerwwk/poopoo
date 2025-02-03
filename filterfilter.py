@@ -301,21 +301,21 @@ print ("          THE END!")
 print("")
 print(""" (Update Kardan script) 👇:
 
-rm -rf filtering.py
+rm -rf filterfilter.py
 rm -rf filter.py
 
 
-git clone https://github.com/werwerwwk/poopoo.git.filtering.py
+git clone https://github.com/werwerwwk/poopoo.git.filterfilter.py
 
 
 
 chmod +x Filter.py
 
 
-cd Filtering.py
+cd Filterfilter.py
 
 
-python Filtering.py
+python Filterfilter.py
 
 """)
 print("")
