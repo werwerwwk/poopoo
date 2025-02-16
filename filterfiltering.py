@@ -277,7 +277,6 @@ if up != "7":
 if up == "3":
 
         print (code Filter account ≠>' + 
-2
 '%s%s (1.3.1.1.q//gygy/8.2.2.2/sx/pipi/oi/3.3.3.0.1/00//1/9.9.w/sksk/9.9.8.8/kohp/qwq/opop/u/3/1/ryu/roo/r/3/pp/qq/666) %s' % (fg('red'), bg('blue'), attr('reset')))
 
 
