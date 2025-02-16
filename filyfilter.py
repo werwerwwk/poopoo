@@ -244,7 +244,7 @@ if up == "0":
 
 if up == "1":
 
-        print ('code Fil Channel ≠>' + '%s%s (0.0.0.0.l/l///l//opo///i.i.1.1.1.1.1/s//g/8.1.1.1.2.2.2.4.4.4.4.3.3.3/) %s' % (fg('red'), bg('yellow'), attr('reset')))
+        print ('code Fil Channel ≠>' + '%s%s (0.0.0.0.l/l///l//opo///i.i.1.1.1.1.1/s//g/8.1.1.1.2.2.2.4.4.4.4.3.3.3/4) %s' % (fg('red'), bg('yellow'), attr('reset')))
 
 
 if up != "5":
@@ -253,21 +253,21 @@ if up != "5":
 
 
 if up == "2":
-        print ('code group ≠>' + '%s%s (9.9.9.2/kjkj/rerr/0.8.9.9.9.8/ilio/8.2.2.2/www//0.0.00.3.3/33.3/ioggio/9) %s' % (fg('white'), bg('black'), attr('reset')))
+        print (code group ≠>' + '%s%s (9.9.9.2/kjkj/rerr/0.8.9.9.9.8/ilio/8.2.2.2/www//0.0.00.3.3/33.3/ioggio/9) %s' % (fg('white'), bg('black'), attr('reset')))
 
 
 if up != "7":
 
-        print('3.3.3.3/cod/acount/in/fil/88/889//gggg/ggg/jjj/wwwg/6.6.6.5.6.7.88/s/9.9.1l/3.3/j/3')
+        print(3.3.3.3/cod/acount/in/fil/88/889//gggg/ggg/jjj/wwwg/6.6.6.5.6.7.88/s/9.9.1l/3.3/j/3)
 
 
 if up == "3":
 
-        print ('code Filter account ≠>' + '%s%s (8.8.2.5.6//xz/1.4.4.4/gs/ii/ii/6.6.6.6.2/vi//v/8.8.k/jsjj.2.3.4.4/ppok//rwrw/p/pp/3/yyy/yoo/o/1/ww//ww/11) %s' % (fg('red'), bg('blue'), attr('reset')))
+        print (code Filter account ≠>' + '%s%s (8.8.2.5.6//xz/1.4.4.4/gs/ii/ii/6.6.6.6.2/vi//v/8.8.k/jsjj.2.3.4.4/ppok//rwrw/p/pp/3/yyy/yoo/o/1/ww//ww/11) %s' % (fg('red'), bg('blue'), attr('reset')))
 
 
 if up != "6":
-        print('rp/rpcod/rpcod/jjoi/sss//bk//ll//qqggg/jjj/yyyy/ll/lll/q')
+        print(rp/rpcod/rpcod/jjoi/sss//bk//ll//qqggg/jjj/yyyy/ll/lll/q)
 
 time.sleep(0.6)
 print(f"{green}" )
