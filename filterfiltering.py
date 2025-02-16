@@ -245,7 +245,6 @@ if up == "0":
 
 
 if up == "1":
-
    
        print ('code Fil Channel ≠>'           
 + '%s%s (90.1.0.9.o/o///o//cl//i/chanl.2.2.2.2.2/s//s/2/1.1.1/i/3.3.2.6.4.3.4.1.1.1/1) %s' % (fg('red'), bg('yellow'), attr('reset')))
