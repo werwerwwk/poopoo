@@ -252,8 +252,7 @@ if up == "1":
 
 if up != "5":
   
-       print (report aut ≠>' +                
-'%s%s (srepre.1.1.1/aoutq/lcaq//aut/xxx//lpok/grgr/iacti/ikuk/1/frv/1./qs)  %s' % (fg('red'), bg('yellow'), attr('reset')))
+       print("    COD  ")
 
 
 if up == "2":
