@@ -241,36 +241,31 @@ if up == "4":
 if up == "0":
    
        print ('(Super) Code filter =>' + 
-         
 '%s%s (02.l.w/eo/su/su/f/f/f//000/1.0.3.3.3/somlsol/i//1.6.40.4.4.i/99.9/sq//9.4.re.10) %s' % (fg('red'), bg('black'), attr('reset')))
 
 
 if up == "1":
 
    
-       print ('code Fil Channel ≠>' 
-       
+       print ('code Fil Channel ≠>'
 + '%s%s (90.1.0.9.o/o///o//cl//i/chanl.2.2.2.2.2/s//s/2/1.1.1/i/3.3.2.6.4.3.4.1.1.1/1) %s' % (fg('red'), bg('yellow'), attr('reset')))
 
 
 if up != "5":
   
        print (report aut ≠>' + '%s%s 
-
 (srepre.1.1.1/aoutq/lcaq//aut/xxx//lpok/grgr/iacti/ikuk/1/frv/1./qs)  %s' % (fg('red'), bg('yellow'), attr('reset')))
 
 
 if up == "2":
 
         print (code group ≠>' + 
-
 '%s%s (1.1.1.1/wqq/ererr/9.9.2.2.2.2/pkoo/0.0.9.90/rew//0.5.44.4.2/222.2//cojicoji/10) %s' % (fg('white'), bg('black'), attr('reset')))
 
 
 if up != "7":
 
         print code account on filter ≠>' +   
-
 '%s%s (2.2.1.3/cod/acount/in/fil/66/909//iigg/iig/ooj/wlxxwg/1.1.1.5.6.7.98//0.9.2l/3.1/j/1)
 
 
@@ -283,7 +278,6 @@ if up == "3":
 if up != "6":
 
         print (code rp ≠>' +             
-        
   '%s%s (cod//rp/weon/posx/owlu/wws//wk//wl/oqqoq/qqj.6.6.6/eee/ss/ssl/s)        
   
 
