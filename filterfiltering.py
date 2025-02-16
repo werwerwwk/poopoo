@@ -319,7 +319,7 @@ print ("          THE END!")
 print("")
 print(""" (Update Kardan script) 👇:
 
-rm -rf pomipomi
+rm -rf poopoo
 rm -rf filter.py
 
 
