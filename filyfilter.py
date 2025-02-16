@@ -311,7 +311,7 @@ git clone https://github.com/werwerwwk/poopoo
 chmod +x Filter.py
 
 
-cd pomipomi
+cd poopoo
 
 
 python filyfilter.py
