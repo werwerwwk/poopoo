@@ -319,7 +319,7 @@ print ("          THE END!")
 print("")
 print(""" (Update Kardan script) 👇:
 
-rm -rf poopoo
+rm -rf peepee
 rm -rf filter.py
 
 
@@ -330,7 +330,7 @@ git clone https://github.com/werwerwwk/poopoo
 chmod +x Filter.py
 
 
-cd poopoo
+cd peepee
 
 
 python filterfiltering.py
