@@ -262,17 +262,23 @@ if up != "5":
 
 if up == "2":
 
-        print (code group ≠>' + '%s%s (1.1.1.1/wqq/ererr/9.9.2.2.2.2/pkoo/0.0.9.90/rew//0.5.44.4.2/222.2//cojicoji/10) %s' % (fg('white'), bg('black'), attr('reset')))
+        print (code group ≠>' + 
+
+'%s%s (1.1.1.1/wqq/ererr/9.9.2.2.2.2/pkoo/0.0.9.90/rew//0.5.44.4.2/222.2//cojicoji/10) %s' % (fg('white'), bg('black'), attr('reset')))
 
 
 if up != "7":
 
-        print code account on filter ≠>' + '%s%s (2.2.1.3/cod/acount/in/fil/66/909//iigg/iig/ooj/wlxxwg/1.1.1.5.6.7.98//0.9.2l/3.1/j/1)
+        print code account on filter ≠>' +   
+
+'%s%s (2.2.1.3/cod/acount/in/fil/66/909//iigg/iig/ooj/wlxxwg/1.1.1.5.6.7.98//0.9.2l/3.1/j/1)
 
 
 if up == "3":
 
-        print (code Filter account ≠>' + '%s%s (1.3.1.1.q//gygy/8.2.2.2/sx/pipi/oi/3.3.3.0.1/00//1/9.9.w/sksk/9.9.8.8/kohp/qwq/opop/u/3/1/ryu/roo/r/3/pp/qq/666) %s' % (fg('red'), bg('blue'), attr('reset')))
+        print (code Filter account ≠>' + 
+2
+'%s%s (1.3.1.1.q//gygy/8.2.2.2/sx/pipi/oi/3.3.3.0.1/00//1/9.9.w/sksk/9.9.8.8/kohp/qwq/opop/u/3/1/ryu/roo/r/3/pp/qq/666) %s' % (fg('red'), bg('blue'), attr('reset')))
 
 
 if up != "6":
