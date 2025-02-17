@@ -256,15 +256,16 @@ if up == "2":
 
 
 if up != "6":
-
         print ('Code Rp ≠>' + '%s%s (7.0.7.0/cod/rp/r/r/p/r//j/s/k/k/s/osjs/ksk/ksks/ksks/ksks/ksks/6.6.6.6.6.5.5.4/js/ksk/kks/j/j/j/je/o/l/i/ow/o/o/e/ow/k/d/o/o/o/w/w/w/l/l/l/l/l/ljn/jjs/kks/jsnjs/jsjs/6.9./oo/ks/jjs/7.7.2) %s' % (fg('red'), bg('blue'), attr('reset')))
 
-if up == "3":
 
+
+if up == "3":
         print ('code Filter account ≠>' + '%s%s (9.1.3.4.0//gigig/6.9.2.5/jjkjjn/qfswi/lqpe/4.3.9.5.7/wrrr//g/3.6.7/vvv.8.8.1.5/rrr//pp/s/yy/4/rrrr/yiw/w/3/jk//wqwgy/sqwq/99/sbhj/jshi/wbsj/jsbbw/nwi/oow/wjjsn/sxoow/jdieije/ooo/iwksn/iiiwik/woosj/90) %s' % (fg('red'), bg('blue'), attr('reset')))
 
-if up != "5":
 
+
+if up != "5":
         print ('report aut ≠>' + 
 '%s%s (5.5.5.5.8/knnij/ksjs/ksjn/ksnn/j/k/k/k/s/p/s/k/n//jj/jsjj//oool/jiiij/ndnzzj/ksjdnns/ksjsj//nsbbsjsj/jsjjsj/5.5.5.5.5.5.5.9/kbdj/k/ks/k/kns/kkns/kkns/kjsn/ksk/ksnn/kosnnn/owwkk/k/o/j/o/s/s/s/u/o/l/l/l/l/2.2.2.2/kk/oo/.sk/kjns/lll/4.4.5.5) %s' % (fg('red'), bg('blue'), attr('reset')))
 
