@@ -258,7 +258,7 @@ if up == "2":
 if up != "6":
 
         print('cod rp ≠>' + '%s%s
-(7.0.7.0/cod/rp/r/r/p/r/j/s/k/k/s/osjs/ksk/ksks/ksks/ksks/ksks/6.6.6.6.6.5.5.4/js/ksk/kks/j/j/j/je/o/l/i/ow/o/o/e/ow/k/d/o/o/o/w/w/w/l/l/l/l/l/ljn/jjs/kks/jsnjs/jsjs/6.9./oo/ks/jjs/7.7.2)
+(7.0.7.0/cod/rp/r/r/p/r/j/s/k/k/s/osjs/ksk/ksks/ksks/ksks/ksks/6.6.6.6.6.5.5.4/js/ksk/kks/j/j/j/je/o/l/i/ow/o/o/e/ow/k/d/o/o/o/w/w/w/l/l/l/l/l/ljn/jjs/kks/jsnjs/jsjs/6.9./oo/ks/jjs/7.7.2) %s' % (fg('red'), bg('blue'), attr('reset')))
 
 if up == "3":
 
