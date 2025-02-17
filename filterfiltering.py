@@ -1,4 +1,5 @@
-print("Hello")
+# maxtor
+# Khasteh Az Hameh
 print("")
 print("")
 print(" ")
@@ -125,10 +126,10 @@ print(f"{green} ")
 print ("Play - - - ! ")
 print (Fore.YELLOW + "")
 time.sleep(1.7)
-print ("                       RUBIKA ID - @OOOO IM QQQQQ")
-print("                      RUBIKA= On -- @OPOOOO")
-print ("                telegram @OQOOO_QQQQQW")
-print ("insta @sbssbs_tor")
+print ("                       RUBIKA ID - @CYROSIF IM MAXTOR")
+print("                      RUBIKA= On -- @CYROSIF")
+print ("                telegram @HACKER_MAXTOR")
+print ("insta @creator_tor")
 print(f"{blue} ")
 time.sleep(1.0)
 print ("!!")
@@ -225,7 +226,7 @@ Loading . . . .
     
 |||||Telegram: T.me/hackgm ||||
 |>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|
-____________ id:wwvwvvvw_oo___________
+____________ id:hacker_maxtor___________
 """)
 print(f"{red} ")
 
@@ -237,48 +238,43 @@ if up == "5":
     os.system("python pass.py")
 if up == "4":
     os.system("exit 5")
-
+    
 if up == "0":
-   
-       print ('(Super) Code filter =>' +       
-'%s%s (02.l.w/eo/su/su/f/f/f//000/1.0.3.3.3/somlsol/i//1.6.40.4.4.i/99.9/sq//9.4.re.10) %s' % (fg('red'), bg('black'), attr('reset')))
+         print ('(Super) Code filter =>' + '%s%s  (2.2.2.6.filterifilterinng_rubirubi///2.6.9.7.w//414.950///8.0.2.0) %s' % (fg('red'), bg('black'), attr('reset')))
 
 
 if up == "1":
-   
-       print ('code Fil Channel ≠>'           
-+ '%s%s (90.1.0.9.o/o///o//cl//i/chanl.2.2.2.2.2/s//s/2/1.1.1/i/3.3.2.6.4.3.4.1.1.1/1) %s' % (fg('red'), bg('yellow'), attr('reset')))
 
+        print ('code Fil Channel ≠>' + '%s%s (1.0.3.6.e/q///w//5060///20.y.1.0.6.7.2.2.3.4.5.7.1.0.8.4.1.6.1.3.4.5.7/) %s' % (fg('red'), bg('yellow'), attr('reset')))
+0
 
-if up != "5":
-  
-       print("    COD  ")
+if up != "1":
+        print("    COD  ")
 
 
 if up == "2":
+        print ('code group ≠>' + '%s%s (2.6.9.3/j.e.r/kjhb/2.3.4//9.10.8.5.9.3/gw/re/p/qqq.1.6.1.2.0.1.4.6.1.0.2.3.8.6.5.1) %s' % (fg('white'), bg('black'), attr('reset')))
 
-        print (code group ≠>' + '%s%s (1.1.1.1/wqq/ererr/9.9.2.2.2.2/pkoo/0.0.9.90/rew//0.5.44.4.2/222.2//cojicoji/10) %s' % (fg('white'), bg('black'), attr('reset')))
 
+if up != "2":
 
-if up != "7":
-
-        print code account on filter ≠>' + '%s%s (2.2.1.3/cod/acount/in/fil/66/909//iigg/iig/ooj/wlxxwg/1.1.1.5.6.7.98//0.9.2l/3.1/j/1)
+        print("     cσ∂s")
 
 
 if up == "3":
 
-        print (code Filter account ≠>' + '%s%s(1.3.1.1.q//gygy/8.2.2.2/sx/pipi/oi/3.3.3.0.1/00//1/9.9.w/sksk/9.9.8.8/kohp/qwq/opop/u/3/1/ryu/roo/r/3/pp/qq/666) %s' % (fg('red'), bg('blue'), attr('reset')))
+        print ('code Filter account ≠>' + '%s%s (3.0.1.5/f///q//yy///e/g/g/g.8/3/ww/g/.1.4.5.7.0.2.1.3.9.8.1.2.7.4.0.6.4.0.7.22.5.6) %s' % (fg('red'), bg('blue'), attr('reset')))
 
 
-if up != "6":
-
-        print (code rp ≠>' + '%s%s (cod//rp/weon/posx/owlu/wws//wk//wl/oqqoq/qqj.6.6.6/eee/ss/ssl/s)        
-  
+if up != "3":
+        print("""
+        
+             Khalegh tor""")
 
 time.sleep(0.6)
 print(f"{green}" )
 print ("""maxtor""")
-print (" group rubikam =>> https://rubika.ir/joinc/JDBSHSBSBSBBSNSSSHSBSBS ")
+print (" group rubikam =>> https://rubika.ir/joinc/JDDGCJF0YUTLWSRZLYDCJWIOBMCANFKJ ")
 print(f"{blue}" )
 print(" ")
 print("love hack")
@@ -287,7 +283,7 @@ print(" im maxtor making hackgm")
 print("")
 print("ip rubika.ir = 5.106.10.226 ")
 print("")
-print(" Chanel Telegram=>> @GSGSG -")
+print(" Chanel Telegram=>> @HACKGM -")
 print (Fore.WHITE + " ")
 time.sleep(3.0)
 print (" Ostoreh Filtering-hacker All maxtor")
@@ -306,12 +302,11 @@ print ("          THE END!")
 print("")
 print(""" (Update Kardan script) 👇:
 
-rm -rf peepee
+rm -rf filter-rubika
 rm -rf filter.py
 
 
 git clone https://github.com/werwerwwk/poopoo
-
 
 
 chmod +x Filter.py
