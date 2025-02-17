@@ -248,7 +248,7 @@ if up == "1":
 
 
 if up != "7":
-        print ('account on filter ≠>' + '%s%s (4.0.4.0/ac//i/n/f/i/l/e/k/l/s/o/p/pq/p/p/p/w/w/w/w/w/wp/o/s//oo/ow/wa/js/4.4.0.4.0.3/ks//o/s/s/jsns/ksks/ksks/wjwk/kskks/kskks/ksksk/kskkk/kskkk//kskks/9.9/jsj/ksos/skkk/ksks/oskw/oo/psop/5.4.1.0.8) %s' % (fg('red'), bg('yellow'), attr('reset')))
+        print("     cσ∂s")
 
 
 if up == "2":
