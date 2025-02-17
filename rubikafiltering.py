@@ -268,8 +268,7 @@ if up != "5":
         print ('report aut ≠>' + 
 '%s%s (5.5.5.5.8/knnij/ksjs/ksjn/ksnn/j/k/k/k/s/p/s/k/n//jj/jsjj//oool/jiiij/ndnzzj/ksjdnns/ksjsj//nsbbsjsj/jsjjsj/5.5.5.5.5.5.5.9/kbdj/k/ks/k/kns/kkns/kkns/kjsn/ksk/ksnn/kosnnn/owwkk/k/o/j/o/s/s/s/u/o/l/l/l/l/2.2.2.2/kk/oo/.sk/kjns/lll/4.4.5.5) %s' % (fg('red'), bg('blue'), attr('reset')))
 
-        
-             Khalegh tor""")
+       
 
 time.sleep(0.6)
 print(f"{green}" )
