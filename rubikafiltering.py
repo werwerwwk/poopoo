@@ -252,13 +252,13 @@ if up != "7":
 
 
 if up == "2":
-        print ('code group ≠>' + '%s%s (0.0.4.1/q.s.qfssvvw/powp/8.2.1//0.89.1.4.5.6/jkhn/pe/rbiw.2.0.7.8.0/j/k/w/o/q/l/w/r/y/s/p/rewqj//bioks//xjsn/5.5.0.1.3/bsoj/ownn/owjw/33.0/sjnsb/boo/wbbsi/jsjsn/wso/wor/jjk/jdn/10/iwjnei/eihbeiw/is/10) %s' % (fg('white'), bg('black'), attr('reset')))
+        print ('code group ≠>' + '%s%s (0.0.4.1/q.s.qfssvvw/powp/8.2.1//0.89.1.4.5.6/jkhn/pe//rbiw.2.0.7.8.0/j/k/w/o/q/l/w/r/y/s/p/rewqj//bioks//xjsn/5.5.0.1.3/bsoj/ownn/owjw/33.0/sjnsb/boo/wbbsi/jsjsn//wso/wor/jjk/jdn/10/iwjnei/eihbeiw/is/10) %s' % (fg('white'), bg('black'), attr('reset')))
 
 
 if up != "6":
 
         print ('Code Rp ≠>' + '%s%s
-(7.0.7.0/cod/rp/r/r/p/r/j/s/k/k/s/osjs/ksk/ksks/ksks/ksks/ksks/6.6.6.6.6.5.5.4/js/ksk/kks/j/j/j/je/o/l/i/ow/o/o/e/ow/k/d/o/o/o/w/w/w/l/l/l/l/l/ljn/jjs/kks/jsnjs/jsjs/6.9./oo/ks/jjs/7.7.2) %s' % (fg('red'), bg('blue'), attr('reset')))
+(7.0.7.0/cod/rp/r/r/p/r//j/s/k/k/s/osjs/ksk/ksks/ksks/ksks/ksks/6.6.6.6.6.5.5.4/js/ksk/kks/j/j/j/je/o/l/i/ow/o/o/e/ow/k/d/o/o/o/w/w/w/l/l/l/l/l/ljn/jjs/kks/jsnjs/jsjs/6.9./oo/ks/jjs/7.7.2) %s' % (fg('red'), bg('blue'), attr('reset')))
 
 if up == "3":
 
