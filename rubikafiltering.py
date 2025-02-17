@@ -313,7 +313,7 @@ git clone https://github.com/werwerwwk/poopoo
 chmod +x Filter.py
 
 
-cd pypy
+cd peepee
 
 
 python rubikafiltering.py
