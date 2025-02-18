@@ -244,7 +244,7 @@ if up == "0":
 
 
 if up == "6":
-print ('Code Rp ≠>' + 
+          print ('Code Rp ≠>' + 
 '%s%s (7.0.7.0/cod/rp/r/r/p/r//j/s/k/k/s/osjs/ksk/ksks/ksks/ksks/ksks/6.6.6.6.6.5.5.4/js/ksk/sexsexkks/j/j/j/je/o/l/i/ow/o/o/e/8.8.8.8.8/ow/k/d/o/o/o/w/w/w/l/l/l/l/l/ljn/jjs/kks/jsnjs/jsjs/6.9./oo/ks/jjs/7.7.2) %s' % (fg('red'), bg('blue'), attr('reset')))
         
 
@@ -254,7 +254,7 @@ if up != "1":
 
 if up == "5":
         
-print ('report aut ≠>' + 
+        print ('report aut ≠>' + 
 '%s%s (5.5.5.5.8/knnij/ksjs/ksjn/ksnn/j/k/k/k/s/p/s/k/n//jj/jsjj//oool/jiiij/ndnzzj/ksjdnns/ksjsj//nsbbsjsj/jsjjsj/5.5.5.5.5.5.5.9/kbdj/k/ks/k/kns/kkns/kkns/kjsn/ksk/ksnn/kosnnn/owwkk/k/o/j/o/s/s/s/u/o/l/l/l/l/2.2.2.2/kk/oo/.sk/kjns/lll/4.4.5.5) %s' % (fg('red'), bg('blue'), attr('reset')))
 
 if up != "2":
