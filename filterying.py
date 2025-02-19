@@ -97,11 +97,7 @@ class run:
             else: system('cls')
         except:
             pass
-     
-        
-                     {yellow}[ {pink}{the} {yellow}]
-
-                        \033[35m>>> \033[93m'{green}{user}\033[93m' \033[35m<<<\033[36m
+ 
 
 
        __________________________________________________
