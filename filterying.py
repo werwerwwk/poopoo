@@ -87,8 +87,8 @@ class run:
         return codes
     @staticmethod
     def main():
-        s : list = [f"""
-        {green}
+        
+  
 
                         .xUHWH!! !!?RYSONN:.
                         .X*#M@$!!  !X!M$$$$$$WWx:.
@@ -216,7 +216,7 @@ class run:
 
 
 
-        \033[31m[?] {pink} [type numbers here] user - {red}[{sh}]{pink} ──╼ ❯❯❯ {yellow}""").strip()
+     ( \033[31m[?] {pink} [type numbers here] user - {red}[{sh}]{pink} ──╼ ❯❯❯         ({yellow}""").strip()
         if wow == '':
             print('\n\033[31m[!] \033[35mplease enter a number method.')
             sleep(1)
