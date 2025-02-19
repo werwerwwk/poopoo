@@ -97,7 +97,7 @@ class run:
             else: system('cls')
         except:
             pass
-        (print(i, flush=True, end=''), sleep(0.007)), for i in banner]; sleep(1)
+        (print(i, flush=True, end='' sleep(0.007)), for i in banner]; sleep(1)
     def insert():
         
                      {yellow}[ {pink}{the} {yellow}]
