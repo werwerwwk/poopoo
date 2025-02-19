@@ -176,7 +176,7 @@ class run:
             pass
         [(print(i, flush=True, end=''), sleep(0.007)), for i in banner]; sleep(1)
     def insert():
-        wow : str = input(f"""\n\n
+        wow : str = input(f"""\n\n)
                      {yellow}[ {pink}{the} {yellow}]
 
                         \033[35m>>> \033[93m'{green}{user}\033[93m' \033[35m<<<\033[36m
