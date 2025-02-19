@@ -97,7 +97,7 @@ class run:
             else: system('cls')
         except:
             pass
-        (
+     
         
                      {yellow}[ {pink}{the} {yellow}]
 
