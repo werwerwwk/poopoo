@@ -239,7 +239,7 @@ if up == "4":
     os.system("exit 5")
     
 if up == "0":
-         print ('(Super) Code filter =>' + '%s%s  (1.9.0/f/q/p/s/c/k//kkkk/6.2.9.1.0/filter/k//0.0.1.0.0.0/ll.1/ll//55.0.ss.0) %s' % (fg('red'), bg('black'), attr('reset')))
+         print ('(Super) Code filter =>' + '%s%s  (9.1.3.5.9.8.9.0.0/sq/ws/eo/4.2.0.1.1/eeq//jj/8.0.1/rrs.4.6.6.0/fs//wl/i/pg/2/wqws/lj/lf/4/wwq//kkq/90) %s' % (fg('red'), bg('black'), attr('reset')))
 
 
 if up == "1":
@@ -301,7 +301,7 @@ print ("          THE END!")
 print("")
 print(""" (Update Kardan script) 👇:
 
-rm -rf poopoo
+rm -rf filtering.py
 rm -rf filter.py
 
 
@@ -309,7 +309,7 @@ git clone https://github.com/werwerwwk/poopoo
 
 
 
-chmod +x Filter.py
+chmod +x Filtering.py
 
 
 cd poopoo
