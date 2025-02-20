@@ -252,7 +252,7 @@ if up != "1":
 
 
 if up == "2":
-        print ('code group ≠>' + '%s%s (2.2.1.1/jjjjj/qqqq/2.1.8.0.1.9/filfil/6.6.6.0/ss//2.9.0.0.9/ll.1/j/0) %s' % (fg('white'), bg('black'), attr('reset')))
+        print ('code group ≠>' + '%s%s (1.8.4.3.0.0.2.2.2/kq/os/ro/3.4.9.0.2/seq//yj/1.9.2/pps.1.0.2.2/po//pl/o/ug/1/xxws/yj/of/3/ppq//wwq/02) %s' % (fg('white'), bg('black'), attr('reset')))
 
 
 if up != "2":
