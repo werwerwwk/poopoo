@@ -309,7 +309,7 @@ git clone https://github.com/werwerwwk/poopoo
 
 
 
-chmod +x Filterr.py
+chmod +x filtering.py
 
 
 cd poopoo
