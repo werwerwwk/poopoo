@@ -239,12 +239,12 @@ if up == "4":
     os.system("exit 5")
     
 if up == "5":
-         print ('report aut =>' + '%s%s  ("XxX)/Filtering/hacking.rubika.gif.sexy.ir") %s' % (fg('red'), bg('black'), attr('reset')))
+         print ('report aut =>' + '%s%s  (XxX)/Filtering/hacking.rubika.gif.sexy.ir) %s' % (fg('red'), bg('black'), attr('reset')))
 
 
 if up == "6":
 
-        print ('Code Rp ≠>' + '%s%s ("https://g/////-e//////*-f-i-l/////0.2.3.5.7.2.4") %s' % (fg('red'), bg('yellow'), attr('reset')))
+        print ('Code Rp ≠>' + '%s%s (https://g/////-e//////*-f-i-l/////0.2.3.5.7.2.4) %s' % (fg('red'), bg('yellow'), attr('reset')))
 
 
 if up != "1":
@@ -252,7 +252,7 @@ if up != "1":
 
 
 if up == "2":
-        print ('code group ≠>' + '%s%s ("Import.group.rubika;ban-grup:link(https://rubika.ir/joing/HHDAHBIC0PLHYEZOSGXEITKLVBJEKSUI)rubik.ir/violence؛type"rubika api6.report(spam.scam)-(grup.filter)-noob-hack-infect.phpnet.us/)https://bit.ly/FSL&Api6.Report(ban,grupmessengerg2c17.iranlms.ir)Locations API IP:(103.69.224.225)time:23:00&00:00/data-Rubika03/09/1403>ban.serverrubika") %s' % (fg('white'), bg('black'), attr('reset')))
+        print ('code group ≠>' + '%s%s (Import.group.rubika;ban-grup:link(https://rubika.ir/joing/HHDAHBIC0PLHYEZOSGXEITKLVBJEKSUI)rubik.ir/violence؛type"rubika api6.report(spam.scam)-(grup.filter)-noob-hack-infect.phpnet.us/)https://bit.ly/FSL&Api6.Report(ban,grupmessengerg2c17.iranlms.ir)Locations API IP:(103.69.224.225)time:23:00&00:00/data-Rubika03/09/1403>ban.serverrubika) %s' % (fg('white'), bg('black'), attr('reset')))
 
 
 if up != "2":
@@ -262,7 +262,7 @@ if up != "2":
 
 if up == "3":
 
-        print ('code Filter account ≠>' + '%s%s ("https://g/////-e//////*-f-i-l/////0.2.3.5.7.2.4)(http://filter.rubika.1/0000/66/76.hacking.rubika/00007xXx/665/217xxx/00008)(http://6.0.3.6/d///f//i///y.6.0.3.2.3.8.6.4.5.8.6.3.7.7.9.0.5.5.1.2.4.0.3.4)(http://v.2.9.5.yftt15k.in)XxX)/Filtering/hacking.rubika.gif.sexy.ir)(https://crash-bandicoot.info/enfejar/sangin-bet.2aE.xyz/IG/igV2?ref=5342)(https://m.sslkn.mobi") %s' % (fg('red'), bg('blue'), attr('reset')))
+        print ('code Filter account ≠>' + '%s%s (https://g/////-e//////*-f-i-l/////0.2.3.5.7.2.4)(http://filter.rubika.1/0000/66/76.hacking.rubika/00007xXx/665/217xxx/00008)(http://6.0.3.6/d///f//i///y.6.0.3.2.3.8.6.4.5.8.6.3.7.7.9.0.5.5.1.2.4.0.3.4)(http://v.2.9.5.yftt15k.in)XxX)/Filtering/hacking.rubika.gif.sexy.ir)(https://crash-bandicoot.info/enfejar/sangin-bet.2aE.xyz/IG/igV2?ref=5342)(https://m.sslkn.mobi) %s' % (fg('red'), bg('blue'), attr('reset')))
 
 
 if up != "3":
