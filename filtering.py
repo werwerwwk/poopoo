@@ -262,7 +262,9 @@ if up != "2":
 
 if up == "3":
 
-        print ('code Filter account ≠>' + '%s%s (4.0.0.1.9//kk/2.0.1.0/qq/ss/oo/2.2.1.1.0/qq//g/2.0.2/ss.0.0.9.0/ss//ll/e/gg/1/ooo/jj/l/5/qq//qq/00) %s' % (fg('red'), bg('blue'), attr('reset')))
+        print ('code Filter account ≠>' + '%s%s (account report withban-accountlog Account.rubika = api6
+(api6.metodban)import(po*rnogrphi*account)https://s6.uupload.ir/files/img_20241205_231826_851_swyq.jpg//tinyurl.com/uppdatesnew#Update/newserveApi;6.5&6log Account.rubika = api6
+(api6.metodban)import(po*rnogrphi*account) ban-account(api6.5&6)log = api6.signInTMP("data-Rubika"), "phone_code_ban"), with-Locations API IP /import(pornogrphi*account) ban-account(api6.5) %s' % (fg('red'), bg('blue'), attr('reset')))
 
 
 if up != "3":
