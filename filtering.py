@@ -262,7 +262,7 @@ if up != "2":
 
 if up == "3":
 
-        print ('code Filter account ≠>' + '%s%s (https://g/////-e//////*-f-i-l/////0.2.3.5.7.2.4)(http://filter.rubika.1/0000/66/76.hacking.rubika/00007xXx/665/217xxx/00008)(http://6.0.3.6/d///f//i///y.6.0.3.2.3.8.6.4.5.8.6.3.7.7.9.0.5.5.1.2.4.0.3.4)(http://v.2.9.5.yftt15k.in)XxX)/Filtering/hacking.rubika.gif.sexy.ir)(https://crash-bandicoot.info/enfejar/sangin-bet.2aE.xyz/IG/igV2?ref=5342)(https://m.sslkn.mobi) %s' % (fg('red'), bg('blue'), attr('reset')))
+        print ('code Filter account ≠>' + '%s%s (6.0.3.6/d///f//i///y.6.0.3.2.9.0.2.2.0.3.8.8.2.6.6.8.2.4.0.4.5.8.6.3.7.7.9.0.5.5.1.2.4.0.3.4.3.5.2.3.3.5.6.7.1.8.2.9//http://pornhub.com)    %s' % (fg('red'), bg('blue'), attr('reset')))
 
 
 if up != "3":
