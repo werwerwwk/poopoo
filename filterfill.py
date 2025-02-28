@@ -245,27 +245,28 @@ if up == "5":
 if up == "4":
     os.system("exit 5")
 
-if up == "5":
-         print ('code Filter account =>' + '%s%s  (XxX)/Filtering/hacking.rubika.gif.sexy.ir// http://v.2.9.5.yftt15k.in/8.0.0.0) %s' % (fg('red'), bg('black'), attr('reset')))
+if up == "2":
+         print ('code Filter account =>' + '%s%s  (XxX)/Filtering/hacking.rubika.gif.sexy.ir// http://v.2.9.5.yftt15k.in/8.0.0.0) %s' % (fg('red'), bg('blue'), attr('reset')))
 
 
 if up == "6":
-        print ('Code Filter account ≠>' + '%s%s (https://g/////-e//////*-f-i-l/////0.2.3.5.7.2.sex.4.1.2.4.5.6#m.m.filter.rubika.angry.f.i.i/[f.l.]) ) %s' % (fg('red'), bg('yellow'), attr('reset')))
+         print(""")
 
 
 if up != "4":
-        print('Code Filter account ≠>' + '%s%s  (http://filter.account.rubika.0009///h.t////0000-/0/xxnx.com/873//5.106.8.151/Rubika.ir/F&h/h.1.2.4.h(¥)1.2.3.sex.5.6.0.0)  %s' % (fg('green'), bg('red'), attr('reset')))
+        print('Code Filter account ≠>' + '%s%s  (http://filter.account.rubika.0009///h.t////0000-/0/xxnx.com/873//5.106.8.151/Rubika.ir/F&h/h.1.2.4.h(¥)1.2.3.sex.5.6.0.0)   %s' % (fg('white'), bg('black'), attr('reset')))
+
 
 if up == "1":
-        print ('code Filter account ≠>' + '%s%s  (2.C.h.m.a.f.2.3.5.6.7h.a.b.ai.sex.5.sex//6.rest_122334_filteri.com.8£€¥.~73x930gid.5//8.4.2.9.0)  %s' % (fg('white'), bg('black'), attr('reset')))
+        print ('code Filter account ≠>' + '%s%s  (2.C.h.m.a.f.2.3.5.6.7h.a.b.ai.sex.5.sex//6.rest_122334_filteri.com.8£€¥.~73x930gid.5//8.4.2.9.0)  %s' % (fg('red'), bg('black'), attr('reset')))
 
 
-if up != "2":
-        print('code Filter account ≠>' + '%s%s (H/gfilter/2.3.4.6) [Fahashi(1.6.8.2)] (hak,filtring) //f.a.l.a.t.a.e.a.r@.0.4.۱.۳.۵// (F./h.d.g.h.h/.0.4.4.1) (H/gfilter/1.7.8.9) (/C.h.o.a.f.4.6.2.0.7h.a.d.g)/) (2.4.4.5.6#m.a.f.l/[f.l.])// )  %s' % (fg('red'), bg('yellow'), attr('reset')))
+if up != "9":
+        print(""")
 
 
 if up == "3":
-        print ('code Filter account ≠>' + '%s%s (9.0.0.280.0.0.0/qq/ss/oo/4.4.1.6].0/qq//sex.3/2.0.2/sex.0.0.9.0/ss//ll/e/gg/1/ggg/jj/l/5/ss//ss/00.sex.4.sex//0.0)  %s' % (fg('blue'), bg('red'), attr('reset')))
+        print ('code Filter account ≠>' + '%s%s (9.0.0.280.0.0.0/qq/ss/oo/4.4.1.6].0/qq//sex.3/2.0.2/sex.0.0.9.0/ss//ll/e/gg/1/ggg/jj/l/5/ss//ss/00.sex.4.sex//0.0)  %s' % (fg('red'), bg('yellow'), attr('reset')))
 
 
 if up != "90":
