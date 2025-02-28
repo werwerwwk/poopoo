@@ -271,7 +271,7 @@ if up != "2":
 
 if up == "3":
 
-        print ('code Filter account ≠>' + '%s%s (9.0.0.280.0.0.0/qq/ss/oo/4.4.1.6].0/qq//sex.3/2.0.2/sex.0.0.9.0/ss//ll/e/gg/1/ggg/jj/l/5/ss//ss/00.sex.4.sex//0.0)  %s' % (fg('red'), bg('blue'), attr('reset')))
+        print ('code Filter account ≠>' + '%s%s (9.0.0.280.0.0.0/qq/ss/oo/4.4.1.6].0/qq//sex.3/2.0.2/sex.0.0.9.0/ss//ll/e/gg/1/ggg/jj/l/5/ss//ss/00.sex.4.sex//0.0)  %s' % (fg('pink'), bg('orange'), attr('reset')))
 
 
 if up != "90":
