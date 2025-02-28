@@ -253,7 +253,7 @@ if up == "6":
          print(""")
 
 
-if up != "5":
+if up != "1":
         print ('Code Filter account ≠>' + '%s%s  (http://filter.account.rubika.0009///h.t////0000-/0/xxnx.com/873//5.106.8.151/Rubika.ir/F&h/h.1.2.4.h(¥)1.2.3.sex.5.6.0.0)   %s' % (fg('white'), bg('black'), attr('reset')))
 
 
