@@ -254,11 +254,11 @@ if up == "6":
 
 
 if up != "1":
-            print ('Code Filter account ≠>' + '%s%s  (http://filter.account.rubika.0009///h.t////0000/0/xxnx.com/873//5.106.8.151/Rubika.ir/F&h/h.1.2.4.h1.2.3.sex.5.6.0.0)   %s' % (fg('white'), bg('black'), attr('reset')))
+  print ('Code Filter account ≠>' + '%s%s  (http://filter.account.rubika.0009///h.t////0000/0/xxnx.com/873//5.106.8.151/Rubika.ir/F&h/h.1.2.4.h1.2.3.sex.5.6.0.0) %s' % (fg('white'), bg('black'), attr('reset')))
 
 
 if up == "4":
-               print ('code Filter account ≠>' + '%s%s  (2.C.h.m.a.f.2.3.5.6.7h.a.b.ai.sex.5.sex//6.rest_122334_filteri.com.8.73x930gid.5//8.4.2.9.0)  %s' % (fg('red'), bg('black'), attr('reset')))
+  print ('code Filter account ≠>' + '%s%s  (2.C.h.m.a.f.2.3.5.6.7h.a.b.ai.sex.5.sex//6.rest_122334_filteri.com.8.73x930gid.5//8.4.2.9.0) %s' % (fg('red'), bg('black'), attr('reset')))
 
 
 if up != "9":
