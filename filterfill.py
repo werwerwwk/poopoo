@@ -205,9 +205,9 @@ up = input("""
  
 [Super   (0) ]
 
-[Exit    (4) ]
+[Exit    (90) ]
 
-[report aut (5) ]
+[report aut (60) ]
 
 [Code Rp (6) ]
 
