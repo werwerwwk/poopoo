@@ -244,7 +244,7 @@ if up == "5":
 
 if up == "0":
 
-        print ('(Super) Code filter ≠>' + '%s%s (http://dxprit-filtering-rubika-174.gigfa.com/dxprit.html)http://linux.io/killd-0000.4-spam%100/bug-3.5.4-linux(https://www.imperva.com/learn/application-security/phishing-attack-scam/)https://v.3.5.7.yftt18k.in.xxx.com(http://Xnxx.com)https://photo.sex.com/5.3.8.4/g/y///v//w/s//5.2.4.7.2.8.6.2.7.9.3.7.1.5.7.3.7.8.1.6.3.6.2.8.2.io(https://thecyberwire.com/glossary/anonymizer)https://pornaddiction.com/(This user sends obscene and pornographic gifs in groups. Also, he supports naked women and posts obs) %s' % (fg('red'), bg('yellow'), attr('reset')))
+        print ('(Super) Code filter ≠>' + '%s%s (http://dxprit-filtering-rubika-174.gigfa.com/dxprit.html)http://linux.io/killd-0000.4-spam%100/bug-3.5.4-linux(https://www.imperva.com/learn/application-security/phishing-attack-scam/)https://v.3.5.7.yftt18k.in.xxx.com(http://Xnxx.com)https://photo.sex.com/5.3.8.4/g/y///v//w/s//5.2.4.7.2.8.6.2.7.9.3.7.1.5.7.3.7.8.1.6.3.6.2.8.2.io(https://thecyberwire.com/glossary/anonymizer)https://pornaddiction.com/) %s' % (fg('red'), bg('yellow'), attr('reset')))
 
 
 if up != "1":
