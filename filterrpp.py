@@ -1,4 +1,5 @@
-print("Hello")
+# maxtor
+# Khasteh Az Hameh
 print("")
 print("")
 print(" ")
@@ -128,7 +129,7 @@ time.sleep(1.7)
 print ("                       RUBIKA ID - @CYROSIF IM MAXTOR")
 print("                      RUBIKA= On -- @CYROSIF")
 print ("                telegram @HACKER_MAXTOR")
-print ("insta @sbssbs_tor")
+print ("insta @creator_tor")
 print(f"{blue} ")
 time.sleep(1.0)
 print ("!!")
@@ -225,7 +226,7 @@ Loading . . . .
     
 |||||Telegram: T.me/hackgm ||||
 |>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|
-____________ id:wwvwvvvw_oo___________
+____________ id:hacker_maxtor___________
 """)
 print(f"{red} ")
 
@@ -238,21 +239,21 @@ if up == "5":
 if up == "4":
     os.system("exit 5")
     
-if up == "5":
-         print ('report aut =>' + '%s%s  (XxX)/Filtering/hacking.rubika.gif.sexy.ir) %s' % (fg('red'), bg('black'), attr('reset')))
-
-
 if up == "0":
+         print ('(Super) Code filter =>' + '%s%s  ( http://dxprit-mehrab-sigari-28-hacker.phpnet.us (https://gif.sxs.xnxx.poren/rubika/robino/accont/sexy/yfttk20/1.2.3.4.1.2.3.4.1.2.3.4.1.2.3.4.1.2.3.4.1.2.3.4(https://repology.org/badge/version-for-repo/crux_36/python:signedjson-compat.svg?allow_ignored=1)https://v.3.5.7.yftt18k.in.xxx.com(http://Xnxx.com)https://photo.sex.com/5.3.8.4/g/y///v//w/s//5.2.4.7.2.8.6.2.7.9.3.7.1.5.7.3.7.8.1.6.3.6.2.8.2.io(https://www.makeuseof.com/what-is-blackcat-ransomware/)https://pornaddiction.com/(This user sends obscene and pornographic gifs in groups. Also, he supports naked women and posts obscene content ) %s' % (fg('red'), bg('black'), attr('reset')))
 
-        print ('(Super) Code filter ≠>' + '%s%s (http://dxprit-filtering-rubika-174.gigfa.com/dxprit.html)http://linux.io/killd-0000.4-spam%100/bug-3.5.4-linux(https://www.imperva.com/learn/application-security/phishing-attack-scam/)https://v.3.5.7.yftt18k.in.xxx.com(http://Xnxx.com)https://photo.sex.com/5.3.8.4/g/y///v//w/s//5.2.4.7.2.8.6.2.7.9.3.7.1.5.7.3.7.8.1.6.3.6.2.8.2.io(https://thecyberwire.com/glossary/anonymizer)https://pornaddiction.com/) %s' % (fg('red'), bg('yellow'), attr('reset')))
 
+if up == "1":
+
+        print ('code Fil Channel ≠>' + '%s%s (1.0.3.6.e/q///w//5060///20.y.1.0.6.7.2.2.3.4.5.7.1.0.8.4.1.6.1.3.4.5.7/) %s' % (fg('red'), bg('yellow'), attr('reset')))
+0
 
 if up != "1":
         print("    COD  ")
 
 
 if up == "2":
-        print ('code group ≠>' + '%s%s (Import.group.rubika;ban-grup:link(https://rubika.ir/joing/HHDAHBIC0PLHYEZOSGXEITKLVBJEKSUI)rubik.ir/violence؛type"rubika api6.report(spam.scam)-(grup.filter)-noob-hack-infect.phpnet.us/)https://bit.ly/FSL&Api6.Report(ban,grupmessengerg2c17.iranlms.ir)Locations API IP:(103.69.224.225)time:23:00&00:00/data-Rubika03/09/1403>ban.serverrubika) %s' % (fg('white'), bg('black'), attr('reset')))
+        print ('code group ≠>' + '%s%s (2.6.9.3/j.e.r/kjhb/2.3.4//9.10.8.5.9.3.1.6.1.2.0.1.4.6.1.0.2.3.8.6.5.1) %s' % (fg('white'), bg('black'), attr('reset')))
 
 
 if up != "2":
@@ -262,7 +263,7 @@ if up != "2":
 
 if up == "3":
 
-        print ('code Filter account ≠>' + '%s%s (http://dxprit-mehrab-sigari-28-hacker.phpnet.us[https://2.0.4.4//pornography//8.9.8.0.0.2.3.4.6.6.5.5//g/////f//i////4.4.2.5.1.1.2.8.8.0.0.2//Hack//00000/0.3.1.4.xXx]=https://uploadkon.ir/uploads/515f19_24InShot-۲۰۲۴۰۱۱۹-۱۵۴۷۴۸۰۸۸.mp4[185.53.178.50] #Porn [#Obscene.and.sexy.黑客和网络钓鱼击.Satanismus.und.Beleidigung.des.Korans.Жестокое.обращение.с.детьми.и.продажа.детского.труда]+[https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-advert]https://cybernx.com/b-best-ways-to-protect-your-organization-from-dark-web[https://dynamicbusiness.com/locked/norton-reveals-100-most-dangerous-websites4168.html]//000\[https://1.1.1.0.0.3.3.3\\pornography//0.0.9.9.2.8.8.2.0.0.9.4.9.9.0.4.8.8.0.0.4.4.1.1.xXx])    %s' % (fg('red'), bg('blue'), attr('reset')))
+        print ('code Filter account ≠>' + '%s%s (http://dxprit-mehrab-sigari-28-hacker.phpnet.us[https://2.0.4.4//pornography//8.9.8.0.0.2.3.4.6.6.5.5//g/////f//i////4.4.2.5.1.1.2.8.8.0.0.2//Hack//00000/0.3.1.4.xXx]=https://uploadkon.ir/uploads/515f19_24InShot-۲۰۲۴۰۱۱۹-۱۵۴۷۴۸۰۸۸.mp4[185.53.178.50] #Porn [#Obscene.and.sexy.黑客和网络钓鱼击.Satanismus.und.Beleidigung.des.Korans.Жестокое.обращение.с.детьми.и.продажа.детского.труда]+[https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-advert]https://cybernx.com/b-best-ways-to-protect-your-organization-from-dark-web[https://dynamicbusiness.com/locked/norton-reveals-100-most-dangerous-websites4168.html]//000\[https://1.1.1.0.0.3.3.3\\pornography//0.0.9.9.2.8.8.2.0.0.9.4.9.9.0.4.8.8.0.0.4.4.1.1.xXx]) %s' % (fg('red'), bg('blue'), attr('reset')))
 
 
 if up != "3":
@@ -273,7 +274,7 @@ if up != "3":
 time.sleep(0.6)
 print(f"{green}" )
 print ("""maxtor""")
-print (" group rubikam =>> https://rubika.ir/joinc/JDBSHSBSBSBBSNSSSHSBSBS ")
+print (" group rubikam =>> https://rubika.ir/joinc/JDDGCJF0YUTLWSRZLYDCJWIOBMCANFKJ ")
 print(f"{blue}" )
 print(" ")
 print("love hack")
@@ -282,7 +283,7 @@ print(" im maxtor making hackgm")
 print("")
 print("ip rubika.ir = 5.106.10.226 ")
 print("")
-print(" Chanel Telegram=>> @GSGSG -")
+print(" Chanel Telegram=>> @HACKGM -")
 print (Fore.WHITE + " ")
 time.sleep(3.0)
 print (" Ostoreh Filtering-hacker All maxtor")
@@ -301,12 +302,12 @@ print ("          THE END!")
 print("")
 print(""" (Update Kardan script) 👇:
 
-rm -rf filtering.py
+rm -rf filter-rubika
 rm -rf filter.py
 
 
-git clone https://github.com/werwerwwk/poopoo
-
+git clone 
+https://github.com/werwerwwk/poopoo
 
 
 chmod +x filterrpp.py
