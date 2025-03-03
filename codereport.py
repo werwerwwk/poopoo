@@ -320,13 +320,13 @@ git clone
 https://github.com/werwerwwk/poopoo
 
 
-chmod +x codereport.py
+chmod +x codeereport.py
 
 
 cd poopoo
 
 
-python codereport.py
+python codeereport.py
 
 """)
 print("")
