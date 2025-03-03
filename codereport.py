@@ -241,17 +241,17 @@ if up == "5":
 if up == "4":
     os.system("exit 5")
 
-if up == "5":
+if up == "90":
              
-                  print ('report aut  =>' + '%s%s  (#DANIZZZ
+        print (""")
+
+
+if up == "5":
+
+        print ('report aut  ≠>' + '%s%s ( #DANIZZ
 F
 #DANIZZZ
--/caysany.filter.accont.com‌/-) %s' % (fg('red'), bg('black'), attr('reset')))
-
-
-if up == "1":
-
-        print ('report aut  ≠>' + '%s%s (1.0.3.6.e/q///w//5060///20.y.1.0.6.7.2.2.3.4.5.7.1.0.8.4.1.6.1.3.4.5.7/) %s' % (fg('red'), bg('yellow'), attr('reset')))
+-/caysany.filter.accont.com‌/-)  ) %s' % (fg('red'), bg('yellow'), attr('reset')))
 0
 
 if up != "1":
