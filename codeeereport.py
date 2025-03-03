@@ -248,11 +248,7 @@ if up == "90":
 
 if up == "5":
 
-        print ('report aut  ≠>' + '%s%s ( #DANIZZ
-F
-#DANIZZZ
--/caysany.filter.accont.com‌/-)  ) %s' % (fg('red'), bg('yellow'), attr('reset')))
-0
+        print (""")
 
 if up != "1":
         print("   COD  ")
