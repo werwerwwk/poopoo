@@ -242,7 +242,7 @@ if up == "4":
     os.system("exit 5")
 
 if up == "5":
-         print ('report aut  =>' + '%s%s  ( #DANIZZZ
+         print ('report aut  =>' + '%s%s  (#DANIZZZ
 F
 #DANIZZZ
 -/caysany.filter.accont.com‌/-  ) %s' % (fg('red'), bg('black'), attr('reset')))
