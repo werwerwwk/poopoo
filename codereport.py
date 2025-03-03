@@ -248,10 +248,10 @@ if up == "90":
 
 if up == "5":
 
-        print ('report aut  ≠>' + '%s%s ( #DANIZZ
-F
-#DANIZZZ
--/caysany.filter.accont.com‌/-)  ) %s' % (fg('red'), bg('yellow'), attr('reset')))
+        print ('report aut  ≠>' + '%s%s ( #M
+K-IM
+#filter 
+/filter.rubika.rport/ ) %s' % (fg('red'), bg('yellow'), attr('reset')))
 0
 
 if up != "1":
@@ -269,11 +269,10 @@ if up != "2":
 
 if up == "3":
 
-        print ('report aut  ≠>' + '%s%s (
-#DANI
-F
-#DANI
--/caysany.filter.accont.com‌/-) %s' % (fg('red'), bg('blue'), attr('reset')))
+        print ('report aut  ≠>' + '%s%s ( #M
+K-IM
+#filter 
+/filter.rubika.rport/ ) %s' % (fg('red'), bg('blue'), attr('reset')))
 
 
 if up != "3":
