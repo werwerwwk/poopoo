@@ -255,7 +255,7 @@ F
 0
 
 if up != "1":
-        print("    COD  ")
+        print("   COD  ")
 
 
 if up == "2":
