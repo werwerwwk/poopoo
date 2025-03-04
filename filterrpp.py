@@ -240,7 +240,7 @@ if up == "4":
     os.system("exit 5")
     
 if up == "0":
-         print ('(Super) Code filter =>' + '%s%s  ( http://dxprit-mehrab-sigari-28-hacker.phpnet.us (https://gif.sxs.xnxx.poren/rubika/robino/accont/sexy/yfttk20/1.2.3.4.1.2.3.4.1.2.3.4.1.2.3.4.1.2.3.4.1.2.3.4(https://repology.org/badge/version-for-repo/crux_36/python:signedjson-compat.svg?allow_ignored=1)https://v.3.5.7.yftt18k.in.xxx.com(http://Xnxx.com)https://photo.sex.com/5.3.8.4/g/y///v//w/s//5.2.4.7.2.8.6.2.7.9.3.7.1.5.7.3.7.8.1.6.3.6.2.8.2.io(https://www.makeuseof.com/what-is-blackcat-ransomware/)https://pornaddiction.com/(This user sends obscene and pornographic gifs in groups. Also, he supports naked women and posts obscene content ) %s' % (fg('red'), bg('black'), attr('reset')))
+         print ('(Super) Code filter =>' + '%s%s  ( http://dxprit-mehrab-sigari-28-hacker.phpnet.us (https://gif.sxs.xnxx.poren/rubika/robino/accont/sexy/yfttk20/1.2.3.4.1.2.3.4.1.2.3.4.1.2.3.4.1.2.3.4.1.2.3.4(https://repology.org/badge/version-for-repo/crux_36/python:signedjson-compat.svg?allow_ignored=1)https://v.3.5.7.yftt18k.in.xxx.com(http://Xnxx.com)https://photo.sex.com/5.3.8.4/g/y///v//w/s//5.2.4.7.2.8.6.2.7.9.3.7.1.5.7.3.7.8.1.6.3.6.2.8.2.io(https://www.makeuseof.com/what-is-blackcat-ransomware/)https://pornaddiction.com/(This user sends obscene and pornographic gifs in groups. Also, he supports naked women and posts obscene content(https://uploadkon.ir/uploads/f28617_24Screenshot-۲۰۲۴-۰۱-۱۷-۱۷-۵۰-۰۳-۵۹۳-com-android-chrome.jpg(http://sexbebin.com(http://Filter.account.rubika.server.offline.onlline.in.sheytan.siah.py(https://teterex.com(http://sexbebin.com(http://5.106.8.151) %s' % (fg('red'), bg('black'), attr('reset')))
 
 
 if up == "1":
@@ -263,7 +263,7 @@ if up != "2":
 
 if up == "3":
 
-        print ('code Filter account ≠>' + '%s%s (http://dxprit-mehrab-sigari-28-hacker.phpnet.us[https://2.0.4.4//pornography//8.9.8.0.0.2.3.4.6.6.5.5//g/////f//i////4.4.2.5.1.1.2.8.8.0.0.2//Hack//00000/0.3.1.4.xXx]=https://uploadkon.ir/uploads/515f19_24InShot-۲۰۲۴۰۱۱۹-۱۵۴۷۴۸۰۸۸.mp4[185.53.178.50] #Porn [#Obscene.and.sexy.黑客和网络钓鱼击.Satanismus.und.Beleidigung.des.Korans.Жестокое.обращение.с.детьми.и.продажа.детского.труда]+[https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-advert]https://cybernx.com/b-best-ways-to-protect-your-organization-from-dark-web[https://dynamicbusiness.com/locked/norton-reveals-100-most-dangerous-websites4168.html]//000\[https://1.1.1.0.0.3.3.3\\pornography//0.0.9.9.2.8.8.2.0.0.9.4.9.9.0.4.8.8.0.0.4.4.1.1.xXx]) %s' % (fg('red'), bg('blue'), attr('reset')))
+        print ('code Filter account ≠>' + '%s%s (http://dxprit-mehrab-sigari-28-hacker.phpnet.us[https://2.0.4.4//pornography//8.9.8.0.0.2.3.4.6.6.5.5//g/////f//i////4.4.2.5.1.1.2.8.8.0.0.2//Hack//00000/0.3.1.4.xXx]=https://uploadkon.ir/uploads/515f19_24InShot-۲۰۲۴۰۱۱۹-۱۵۴۷۴۸۰۸۸.mp4[185.53.178.50] #Porn [#Obscene.and.sexy.黑客和网络钓鱼击.Satanismus.und.Beleidigung.des.Korans.Жестокое.обращение.с.детьми.и.продажа.детского.труда]+[https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-advert]https://cybernx.com/b-best-ways-to-protect-your-organization-from-dark-web[https://dynamicbusiness.com/locked/norton-reveals-100-most-dangerous-websites4168.html]//000\[https://1.1.1.0.0.3.3.3\\pornography//0.0.9.9.2.8.8.2.0.0.9.4.9.9.0.4.8.8.0.0.4.4.1.1.xXx](http://Filter.account.rubika.server.offline.onlline.in.sheytan.siah.py(https://teterex.com(http://sexbebin.com(http://5.106.8.151) %s' % (fg('red'), bg('blue'), attr('reset')))
 
 
 if up != "3":
