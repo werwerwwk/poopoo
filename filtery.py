@@ -191,17 +191,8 @@ print ("")
 # 1 chanel 2 Group 3 acc
 up = input(""" 
 
-[cood filter Account rubika (1) ]
-
-[cood filter Account rubika (2) ]
                  
-[cood filter Account rubika (3) ]
-
-[cood filter Account rubika (4) ]
-
-[cood filter Account rubika (5) ]
-     
-[cood filter Account rubika (6) ]      
+[cood filter Account rubika (3) ] 
  
 [Super   (0) ]
 
