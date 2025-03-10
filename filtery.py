@@ -305,7 +305,7 @@ rm -rf filterfilter.py
 rm -rf filterfilter.py
 
 
-git clone https://github.com/werwerwwk/poopoo.filtery.py
+git clone https://github.com/werwerwwk/poopoo
 
 
 
