@@ -191,9 +191,11 @@ print ("")
 # 1 chanel 2 Group 3 acc
 up = input(""" 
 
+[cood filter channel rubika (1) ]
+[cood filtr group rubika    (2) ]
                  
-[cood filter Account rubika (3) ] 
- 
+[cood filter Account rubika (3) ]
+                  
 [Super   (0) ]
 
 [Exit    (4) ]
@@ -236,36 +238,34 @@ if up == "5":
 if up == "4":
     os.system("exit 5")
 
-if up == "5":
+if up == "0":
+         print ('(Super) Code filter =>' + '%s%s  (1.9.0/f/q/p/s/c/k//kkkk/6.2.9.1.0/filter/k//0.0.1.0.0.0/ll.1/ll//55.0.ss.0) %s' % (fg('red'), bg('black'), attr('reset')))
 
-         print ('code Filter account =>' + '%s%s  (XxX)/Filtering/hacking.rubika.gif.sexy.ir// http://v.2.9.5.yftt15k.in/8.0.0.0) %s' % (fg('red'), bg('black'), attr('reset')))
-
-
-if up == "6":
-
-        print ('Code Filter account ≠>' + '%s%s (https://g/////-e//////*-f-i-l/////0.2.3.5.7.2.sex.4.1.2.4.5.6#m.m.filter.rubika.angry.f.i.i/[f.l.]) ) %s' % (fg('red'), bg('yellow'), attr('reset')))
-
-
-if up != "4":
-
-        print('Code Filter account ≠>' + '%s%s  (http://filter.account.rubika.0009///h.t////0000-/0/xxnx.com/873//5.106.8.151/Rubika.ir/F&h/h.1.2.4.h(¥)1.2.3.sex.5.6.0.0)  %s' % (fg('green'), bg('red'), attr('reset')))
 
 if up == "1":
 
-        print ('code Filter account ≠>' + '%s%s  (2.C.h.m.a.f.2.3.5.6.7h.a.b.ai.sex.5.sex//6.rest_122334_filteri.com.8£€¥.~73x930gid.5//8.4.2.9.0)  %s' % (fg('white'), bg('black'), attr('reset')))
+        print ('code Fil Channel ≠>' + '%s%s (7.8.9.2.d/f///y//6065///g.k.4.6.7.8.2.3.5.6.7.3.2.9.3.9.1.5.3.6.2.9.6/) %s' % (fg('red'), bg('yellow'), attr('reset')))
+
+
+if up != "1":
+        print("    COD  ")
+
+
+if up == "2":
+        print ('code group ≠>' + '%s%s (2.2.1.1/jjjjj/qqqq/2.1.8.0.1.9/filfil/6.6.6.0/ss//2.9.0.0.9/ll.1/j/0) %s' % (fg('white'), bg('black'), attr('reset')))
 
 
 if up != "2":
 
-        print('code Filter account ≠>' + '%s%s (H/gfilter/2.3.4.6) [Fahashi(1.6.8.2)] (hak,filtring) //f.a.l.a.t.a.e.a.r@.0.4.۱.۳.۵// (F./h.d.g.h.h/.0.4.4.1) (H/gfilter/1.7.8.9) (/C.h.o.a.f.4.6.2.0.7h.a.d.g)/) (2.4.4.5.6#m.a.f.l/[f.l.])// )  %s' % (fg('red'), bg('yellow'), attr('reset')))
+        print("     cσ∂s")
 
 
 if up == "3":
 
-        print ('code Filter account ≠>' + '%s%s ([https://uploadkon.ir/uploads/d7e306_25sexy-file-yftt-15k.jpg/]#This.user.is.sending.obscene.photos]#>[/https://dspace5.zcu.cz/bitstream/11025/11631/1/Sztymelski.pdf]#>[.http://Server.onlline/server.offline.onlline]#>[https://crash-bandicoot.info/enfejar/gambling-sitehttps://photo.sex.com/5.3.8.4/g/y///v//w/s//5.2.4.7.2.8.6.2.7.9.3.7.1.5.7.3.7.8.1.6.3.6.2.8.2com]#>[//https://jizzbunker-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=fa&_x_tr_hl=fa&_x_tr_pto=sc/]#>[http://v.3.4.5.5.ytt15k.in]#>[%Filter_rubika%]#>[@SupportBot]#>[#Report.Account]#>[//https://github.com/jayzeng/virustotal_apiwrapper]#>[https://teterex.com]#>[http://v.3.4.5.5.ytt15k.in]#>[5.106.8.151]#>[https://tendence.ru/articles/spam-chto-eto-takoe-prostymi-slovami]#>[https://F.Tttl.₱.fi.fil.fil.fil.porn.yftt14k.色情色情₱.Mustajin/%%.yftt1/1.1.3.4.655.99.00.11.3W.W.W.WO.O.O.O.₱.₱0.0.https://github.com/darkhunter141/Virus-Lab)  %s' % (fg('red'), bg('blue'), attr('reset')))
+        print ('code Filter account ≠>' + '%s%s ([https://uploadkon.ir/uploads/d7e306_25sexy-file-yftt-15k.jpg/]#This.user.is.sending.obscene.photos]#>[/https://dspace5.zcu.cz/bitstream/11025/11631/1/Sztymelski.pdf]#>[.http://Server.onlline/server.offline.onlline]#>[https://crash-bandicoot.info/enfejar/gambling-sitehttps://photo.sex.com/5.3.8.4/g/y///v//w/s//5.2.4.7.2.8.6.2.7.9.3.7.1.5.7.3.7.8.1.6.3.6.2.8.2com]#>[//https://jizzbunker-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=fa&_x_tr_hl=fa&_x_tr_pto=sc/]#>[http://v.3.4.5.5.ytt15k.in]#>[%Filter_rubika%]#>[@SupportBot]#>[#Report.Account]#>[//https://github.com/jayzeng/virustotal_apiwrapper]#>[https://teterex.com]#>[http://v.3.4.5.5.ytt15k.in]#>[5.106.8.151]#>[https://tendence.ru/articles/spam-chto-eto-takoe-prostymi-slovami]#>[https://F.Tttl.₱.fi.fil.fil.fil.porn.yftt14k.色情色情₱.Mustajin/%%.yftt1/1.1.3.4.655.99.00.11.3W.W.W.WO.O.O.O.₱.₱0.0.https://github.com/darkhunter141/Virus-Lab) %s' % (fg('red'), bg('blue'), attr('reset')))
 
 
-if up != "90":
+if up != "3":
         print("""
         
              Khalegh tor""")
@@ -301,11 +301,11 @@ print ("          THE END!")
 print("")
 print(""" (Update Kardan script) 👇:
 
-rm -rf filterfill.py
-rm -rf filter.py
+rm -rf filterfilter.py
+rm -rf filterfilter.py
 
 
-git clone https://github.com/werwerwwk/poopoo
+git clone https://github.com/werwerwwk/poopoo.filtery.py
 
 
 
