@@ -1,4 +1,3 @@
-print("Hello")
 print("")
 print("")
 print(" ")
@@ -262,7 +261,7 @@ if up != "2":
 
 if up == "3":
 
-        print ('code Filter account ≠>' + '%s%s (https://uploadkon.ir/uploads/d7e306_25sexy-file-yftt-15k.jpg/]#This.user.is.sending.obscene.photos]#>[https://dspace5.zcu.cz/bitstream/11025/11631/1/Sztymelski.pdf]#>[//photo.sex.com/5.3.8.4/g/y///v//w/s//5.2.4.7.2.8.6.2.7.2.2.2.2.2.2.2.2.2.2.9.3.2com]#>[//https://jizzbunker-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=fa&_x_tr_hl=fa&_x_tr_pto=sc/]#>[http://v.3.4.5.5.ytt15k.in]#>[%Filter_rubika%]#>[#Report.Account]#>[https://github.com/jayzeng/virustotal_apiwrapper]#>[https://teterex.com]#>[http://v.3.4.5.5.ytt15k.in]#>[5.106.8.151]#>[https://tendence.ru/articles/spam-chto-eto-takoe-prostymi-slovami]#>[https://F.Tttl.₱.fi.fil.fil.fil.porn.yftt14k.色情色情₱.Mustajin/%%.yftt1/1.9.3.2.625.80.11.11.3W.W.W.WO.1..1.₱.₱0.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1) %s' % (fg('red'), bg('blue'), attr('reset')))
+        print ('code Filter account ≠>' + '%s%s (4.0.0.192.0.1.0/qq/ss/oo/2.2.1.1.0/qq//g/2.0.2/ss.0.0.9.0/ss//ll/e/gg/1/ooo/jj/l/5/qq//qq/00.sex.2.sex//4.0) %s' % (fg('red'), bg('blue'), attr('reset')))
 
 
 if up != "3":
